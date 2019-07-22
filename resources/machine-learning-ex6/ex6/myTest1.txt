@@ -1,0 +1,30 @@
+View online
+ 
+Get the ISAAC software development kit and emulator now
+ 
+
+download immediately
+ 
+ We are pleased to announce that the highly anticipated NVIDIA Isaac Software Development Kit and Isaac Emulator are now available for robot developers.
+
+ The Isaac Software Development Kit is a developer toolkit for accelerating the development and deployment of AI robots based on the NVIDIA platform.
+• Isaac Robot Engine – This framework makes it easy to build modular applications
+• Isaac Gems - This modular algorithm enables sensing, mapping, navigation and startup
+• Isaac Reference Platform - NVIDIA Carter (internal automatic distribution/logistics robot based on NVIDIA Jetson AGX XavierTM) and Kaya (based on Jetson NanoTM)
+ The Isaac Simulator is a virtual robotic lab and high-fidelity 3D world simulator for accelerating the research, design and development of robots. This version includes
+• Test three environments for the Carter robotic navigation stack
+• Domain randomization of control parameters in a scenario
+• Load the robot model into Isaac Sim's robot builder
+ Please share your feedback and suggestions on our Developer Forum to help us promote and improve the Isaac SDK.
+download immediately
+Want to know more?
+ Welcome to the webinar on the NVIDIA Isaac package hosted by NVIDIA Robotics Director David Weikersdorfer (10:00 am Pacific Time, May 30). You can learn about the following:
+• Writing of the basic Isaac codelet for robot control
+• Create a robot application using the Isaac graphical calculation model.
+• Test and evaluate applications in a simulated environment.
+• Application deployment of NVIDIA Jetson-based robots
+ There will also be a live Q&A session after the presentation.
+Sign up now
+Manage my preferences or unsubscribe | Contact us
+© 2019 NVIDIA All rights reserved. All rights reserved.
+Room 4001, 40th Floor, Fortune Financial Center, No. 5 East Third Ring Road, Chaoyang District, Beijing (100020)
